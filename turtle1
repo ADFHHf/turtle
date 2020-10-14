@@ -1,0 +1,13 @@
+import turtle
+tw = turtle.Screen()
+ayala = turtle.Turtle()
+ayala.color("red")
+ayala.pensize(5)
+ayala.forward(100)
+ayala.right(90)
+ayala.forward(100)
+ayala.right(90)
+ayala.forward(100)
+ayala.right(90)
+ayala.forward(100)
+turtle.mainloop()
